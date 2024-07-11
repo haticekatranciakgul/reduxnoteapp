@@ -1,12 +1,13 @@
-
-import React from 'react'
+import React from 'react';
+import NotesList from "../../components/NoteList/NoteList";
+import { useSelector} from "react-redux";
+import { getAllNotes } from '../../features/notes/noteSlice';
 
 const NotesPage = () => {
+  const notes = useSelector(getAllNotes);
   return (
-    <div>
-      NotesPage
-    </div>
+    <NotesList notes = {notes} />
   )
 }
 
-export default NotesPage
+export default NotesPage;
