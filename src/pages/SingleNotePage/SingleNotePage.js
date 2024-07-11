@@ -1,6 +1,6 @@
 import React from 'react'
 
-const EditNoteForm = () => {
+const SingleNotePage = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const EditNoteForm = () => {
   )
 }
 
-export default EditNoteForm
+export default SingleNotePage
