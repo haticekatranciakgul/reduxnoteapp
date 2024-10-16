@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reduxnoteapp/static/css/main.0e0f21f2.css",
+    "main.js": "/reduxnoteapp/static/js/main.860f1909.js",
+    "static/media/header_img.jpg": "/reduxnoteapp/static/media/header_img.173237e2bc36435b9272.jpg",
+    "static/media/notes_icon.png": "/reduxnoteapp/static/media/notes_icon.fe53e2c64ecf6f73e190.png",
+    "index.html": "/reduxnoteapp/index.html",
+    "main.0e0f21f2.css.map": "/reduxnoteapp/static/css/main.0e0f21f2.css.map",
+    "main.860f1909.js.map": "/reduxnoteapp/static/js/main.860f1909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e0f21f2.css",
+    "static/js/main.860f1909.js"
+  ]
+}
