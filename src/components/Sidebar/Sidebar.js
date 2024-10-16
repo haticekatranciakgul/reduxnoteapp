@@ -18,7 +18,7 @@ const Sidebar = () => {
         </Link>
 
         <ul className='links my-4'>
-          <Link to = "/home" className={`text-white flex justify-center align-center link-item ${pathname === 'home' ? 'active-link' : ""}`}>
+          <Link to = "/" className={`text-white flex justify-center align-center link-item ${pathname === 'home' ? 'active-link' : ""}`}>
             <span className='flex align-center justify-center'>
               <AiFillHome size = {17} />
             </span>
@@ -30,7 +30,7 @@ const Sidebar = () => {
             </span>
             <span className='icon-text'>Add</span>
           </Link>
-          <Link to = "" className='text-white flex justify-center align-center link-item'>
+          <Link to = "/" className='text-white flex justify-center align-center link-item'>
             <span className='flex align-center justify-center'>
               <MdNoteAlt size = {17} />
             </span>

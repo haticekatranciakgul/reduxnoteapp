@@ -8,7 +8,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path = "/" element = {<Home />}>
-            <Route path = "/home" element = {<Notes />} />
+            <Route path = "/" element = {<Notes />} />
             <Route path = "/add" element = {<AddNote />} />
             <Route path = "/edit/:id" element = {<EditNote />} />
             <Route path = "/note/:id" element = {<SingleNote />} />
