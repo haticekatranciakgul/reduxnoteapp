@@ -5,7 +5,7 @@ import {BrowserRouter, Routes, Route} from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename='/reduxnoteapp'>
         <Routes>
           <Route path = "/" element = {<Home />}>
             <Route path = "/" element = {<Notes />} />
