@@ -1,3 +1,11 @@
+## Live
+
+https://haticekatranciakgul.github.io/reduxnoteapp/
+
+https://github.com/haticekatranciakgul/reduxnoteapp/assets/76768140/3d0c9846-cacf-470d-b786-8d5bfb0f5969
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,7 +79,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-https://github.com/haticekatranciakgul/reduxnoteapp/assets/76768140/3d0c9846-cacf-470d-b786-8d5bfb0f5969
 
 
 
